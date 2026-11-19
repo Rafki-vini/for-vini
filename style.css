@@ -886,7 +886,7 @@ body { background: #fbe5ec; }
   .page-mascot { width: 100px; right: 0; bottom: 45px; opacity: .82; }
   .home .page-mascot { width: 102px; left: -5px; bottom: 42px; }
   .letter-slide .page-mascot { width: 112px; right: -5px; bottom: 42px; }
-  .memories-slide .page-mascot { width: 92px; right: -3px; bottom: 43px; }
+  .memories-slide .page-mascot { width: 92px; right: -3px; bottom: 60px; }
   .wish-slide .page-mascot { display: block; width: 88px; right: -4px; bottom: 42px; opacity: .13; }
   .letter-flower { opacity: .38; }
   .flower-a { top: 7%; left: 4%; }
