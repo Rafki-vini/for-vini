@@ -855,7 +855,7 @@ body { background: #fbe5ec; }
 }
 .page-mascot img { filter: drop-shadow(0 8px 12px rgba(83,31,52,.12)); }
 .content, .opening-scene { position: relative; z-index: 1; }
-.home .page-mascot { left: 1.5%; right: auto; bottom: -50px; width: clamp(130px, 17vw, 200px); }
+.home .page-mascot { left: 1.5%; right: auto; bottom: -100px; width: clamp(130px, 17vw, 200px); }
 .letter-slide .page-mascot { right: 1%; bottom: -12px; width: clamp(150px, 19vw, 225px); }
 .memories-slide .page-mascot { right: 1%; bottom: -10px; width: clamp(125px, 16vw, 185px); }
 .wish-slide .page-mascot {
